@@ -10,7 +10,7 @@ All the pages are linked in the logical way (if you click in _Log In_ you can ac
 1. [Search And Order](#search-and-order)
 2. [Login And SignUp](#login-and-signup)
 3. [Return Back](#return-back)
-4. [Return Back](#return-back)
+4. [Additional Information](#additional-information)
 5. [Screenshots](#screenshots)
 
 ## SEARCH AND ORDER
